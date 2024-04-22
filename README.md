@@ -55,4 +55,11 @@ Install the `requirements`
 pip install requirements.txt
 ```
 
+### Step 4
+run the `Blockchain`
+```
+python app.py
+```
 </details>
+
+# Debugger
