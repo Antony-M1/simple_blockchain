@@ -62,4 +62,3 @@ python app.py
 ```
 </details>
 
-# Debugger
