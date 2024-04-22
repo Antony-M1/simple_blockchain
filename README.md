@@ -23,3 +23,36 @@ This is very simple tutorial taken from the [geeksforgeeks](https://www.geeksfor
 * After mining several blocks the validity of the chain must be checked in order to prevent any kind of tampering with the blockchain.
 
 * Then the web app will be made by using `Flask` and `deployed locally` or `publicly` as per the need of the user.
+
+
+# Local setup
+
+<details>
+    <summary>Setup up locally</summary>
+
+### Step 1
+Clone the Project using this command
+```
+git clone https://github.com/Antony-M1/simple_blockchain.git
+```
+
+### Step 2
+Create `Python Environment` and activate.
+```
+python -m venv .venv
+```
+To activate `windows`
+```
+source .venv/Scripts/activate
+```
+To Activate `Linux`
+```
+source .venv/bin/activate
+```
+### Step 3
+Install the `requirements`
+```
+pip install requirements.txt
+```
+
+</details>
